@@ -214,6 +214,15 @@
         <mxCell id="-B7YbsRp1OpEcD2H-k8N-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000,#FF0000);" value="" vertex="1">
           <mxGeometry height="20" width="60" x="-1340" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="pTNFelWSakFM4VY4HWN1-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#FF0080);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="-580" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pTNFelWSakFM4VY4HWN1-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#FF0080);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="-580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="pTNFelWSakFM4VY4HWN1-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#FF0080);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="-580" y="720" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
