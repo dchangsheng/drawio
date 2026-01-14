@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="第 1 页" id="Nm0vHG4V6bhj9I3wCfVj">
-    <mxGraphModel dx="1774" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="20" x="1066.88" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="101.25" width="20" x="1100.63" y="103.13" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-17" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="115.96" width="20" x="1182.66" y="95.79" as="geometry" />
+        </mxCell>
         <mxCell id="0tlNvCx0qajBI-qnqtmS-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
           <mxGeometry height="65" width="20" x="362.5" y="120" as="geometry" />
         </mxCell>
@@ -279,6 +288,54 @@
           <mxGeometry height="44" width="190" x="1140" as="geometry">
             <mxRectangle height="44" width="190" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="93.75" width="20" x="1011.88" y="105.63" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="伺服电机" vertex="1">
+          <mxGeometry height="80" width="120" x="875" y="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="1120" y="122.51" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" value="" vertex="1">
+          <mxGeometry height="40" width="80" x="1220" y="132.51" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="双出轴光编传感器" vertex="1">
+          <mxGeometry height="30" width="100" x="1110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="电涡流传感器" vertex="1">
+          <mxGeometry height="30" width="80" x="1230" y="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="30" width="640" x="840" y="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="20" x="990" y="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="电机支架" vertex="1">
+          <mxGeometry height="50" width="150" x="860" y="191.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="20" x="1280" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="目标轮" vertex="1">
+          <mxGeometry height="30" width="60" x="1230" y="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收发线圈" vertex="1">
+          <mxGeometry height="30" width="60" x="1270" y="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="活动支架" vertex="1">
+          <mxGeometry height="50" width="70" x="1260" y="191.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="46.25" width="33.75" x="1060" y="130.62" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="联轴器" vertex="1">
+          <mxGeometry height="30" width="80" x="1036.88" y="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UHMzRaHZF7jRfGOWoslA-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="联轴器支架" vertex="1">
+          <mxGeometry height="50" width="70" x="1041.88" y="192.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
