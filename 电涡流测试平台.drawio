@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GRYQ-u-2Z8fIgaZ63vNu" name="接线说明">
-    <mxGraphModel dx="1418" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1309" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,20 +697,17 @@
         <mxCell id="R6RDampBNTAFeZz2FZQt-41" edge="1" parent="1" source="R6RDampBNTAFeZz2FZQt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R6RDampBNTAFeZz2FZQt-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信号线&lt;div&gt;（4芯）&lt;/div&gt;" vertex="1">
+        <mxCell id="R6RDampBNTAFeZz2FZQt-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信号线&lt;div&gt;（4芯）&lt;/div&gt;&lt;div&gt;(SIN、COS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="40" x="1120" y="600" as="geometry" />
         </mxCell>
         <mxCell id="R6RDampBNTAFeZz2FZQt-40" edge="1" parent="1" source="R6RDampBNTAFeZz2FZQt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R6RDampBNTAFeZz2FZQt-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信号线&lt;div&gt;（4芯）&lt;/div&gt;" vertex="1">
+        <mxCell id="R6RDampBNTAFeZz2FZQt-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信号线&lt;div&gt;（4芯）&lt;/div&gt;&lt;div&gt;(SIN、COS)&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="40" x="1240" y="600" as="geometry" />
         </mxCell>
         <mxCell id="R6RDampBNTAFeZz2FZQt-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="上位机" vertex="1">
           <mxGeometry height="80" width="160" x="1120" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="USB" vertex="1">
-          <mxGeometry height="80" width="40" x="1120" y="800" as="geometry" />
         </mxCell>
         <mxCell id="R6RDampBNTAFeZz2FZQt-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="USART" vertex="1">
           <mxGeometry height="80" width="40" x="1160" y="800" as="geometry" />
@@ -718,36 +715,8 @@
         <mxCell id="R6RDampBNTAFeZz2FZQt-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="CAN" vertex="1">
           <mxGeometry height="80" width="40" x="1200" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="ETH" vertex="1">
-          <mxGeometry height="80" width="40" x="1240" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-48" edge="1" parent="1" source="R6RDampBNTAFeZz2FZQt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" target="R6RDampBNTAFeZz2FZQt-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1140" y="930" />
-              <mxPoint x="1060" y="930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-49" edge="1" parent="1" source="R6RDampBNTAFeZz2FZQt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" target="R6RDampBNTAFeZz2FZQt-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-50" edge="1" parent="1" source="R6RDampBNTAFeZz2FZQt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" target="R6RDampBNTAFeZz2FZQt-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="930" />
-              <mxPoint x="1220" y="930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="R6RDampBNTAFeZz2FZQt-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="USB" vertex="1">
           <mxGeometry height="40" width="40" x="1150" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-52" edge="1" parent="1" source="R6RDampBNTAFeZz2FZQt-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" target="R6RDampBNTAFeZz2FZQt-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R6RDampBNTAFeZz2FZQt-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="ETH" vertex="1">
-          <mxGeometry height="40" width="40" x="1240" y="960" as="geometry" />
         </mxCell>
         <mxCell id="R6RDampBNTAFeZz2FZQt-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="直流电源" vertex="1">
           <mxGeometry height="80" width="120" x="920" y="920" as="geometry" />
@@ -774,6 +743,9 @@
         </mxCell>
         <mxCell id="R6RDampBNTAFeZz2FZQt-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HALL/BNC" vertex="1">
           <mxGeometry height="40" width="120" x="1280" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="wDprAlhXNHUDhQjOihj8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A、B、Z" vertex="1">
+          <mxGeometry height="80" width="40" x="1000" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
